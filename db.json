@@ -1,0 +1,9 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Chatty Chatterson",
+      "email": "chat123@chatty.com"
+    }
+  ]
+}
